@@ -1,0 +1,13 @@
+G:\C#-parking\parking\parking\bin\Debug\parking.exe.config
+G:\C#-parking\parking\parking\bin\Debug\parking.exe
+G:\C#-parking\parking\parking\bin\Debug\parking.pdb
+G:\C#-parking\parking\parking\obj\Debug\parking.csprojResolveAssemblyReference.cache
+G:\C#-parking\parking\parking\obj\Debug\parking.login.resources
+G:\C#-parking\parking\parking\obj\Debug\parking.Properties.Resources.resources
+G:\C#-parking\parking\parking\obj\Debug\parking.csproj.GenerateResource.Cache
+G:\C#-parking\parking\parking\obj\Debug\parking.exe
+G:\C#-parking\parking\parking\obj\Debug\parking.pdb
+G:\C#-parking\parking\parking\obj\Debug\parking.界面.main.resources
+G:\C#-parking\parking\parking\bin\Debug\MySql.Data.dll
+G:\C#-parking\parking\parking\bin\Debug\MySql.Data.Entity.EF5.dll
+G:\C#-parking\parking\parking\bin\Debug\MySql.Web.dll
